@@ -16,6 +16,6 @@ Each folder containts a dataset with the following components.
 
 ## First Project
 Gitcoin grants
-- topic: crowdfunding 
+- topics: crowdfunding, public goods, quadratic funding 
 
 
